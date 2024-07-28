@@ -1,0 +1,1 @@
+# previsao-de-estoque-aws
