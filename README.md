@@ -3,7 +3,7 @@
 
 # 📊 Dataset
 ## O dataset utilizado neste projeto foi gerado pelo ChatGPT através de código Python 🐍 e posteriormente convertido para CSV. O conjunto de dados inclui variáveis relevantes para a previsão de estoque e vendas, como:
-###Data: Data das vendas e do estoque.
+### Data: Data das vendas e do estoque.
 ### Produto: Identificação do produto.
 ### Quantidade Vendida: Número de unidades vendidas.
 ### Estoque Atual: Número de unidades em estoque.
